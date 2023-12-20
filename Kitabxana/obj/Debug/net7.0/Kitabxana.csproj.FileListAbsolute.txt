@@ -1,0 +1,14 @@
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.AssemblyInfoInputs.cache
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.AssemblyInfo.cs
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.csproj.CoreCompileInputs.cache
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\bin\Debug\net7.0\Kitabxana.exe
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\bin\Debug\net7.0\Kitabxana.deps.json
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\bin\Debug\net7.0\Kitabxana.runtimeconfig.json
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\bin\Debug\net7.0\Kitabxana.dll
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\bin\Debug\net7.0\Kitabxana.pdb
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.dll
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\refint\Kitabxana.dll
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.pdb
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\Kitabxana.genruntimeconfig.cache
+C:\Users\ekber\source\repos\Kitabxana\Kitabxana\obj\Debug\net7.0\ref\Kitabxana.dll
